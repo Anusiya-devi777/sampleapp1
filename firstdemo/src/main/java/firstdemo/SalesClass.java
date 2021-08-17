@@ -10,6 +10,7 @@ public class SalesClass {
 		System.out.println("Print array:");
 		for (int i=0;i<100;i++)
 			System.out.println("Print i");
+			System.out.println("Print trying to raise conflicts");
 		display();
 	}
 	
