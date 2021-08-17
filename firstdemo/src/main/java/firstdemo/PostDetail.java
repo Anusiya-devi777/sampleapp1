@@ -2,6 +2,7 @@ package firstdemo;
 
 public class PostDetail {
 	String postname;
-	LocalDate postdate;
-
+	public static void display() {
+		System.out.println("Print new");
+	}
 }
